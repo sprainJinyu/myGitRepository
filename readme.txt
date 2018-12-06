@@ -6,3 +6,5 @@ Git is free software.
 加了这段话提交到develop分支中
 
 这次编辑提交到develop2中,然后推送到develop
+
+再来一次测试,(我是冲突),看看有没有冲突
